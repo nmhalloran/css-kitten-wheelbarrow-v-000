@@ -21,10 +21,10 @@ img {
   height: 514px;
 }
 
-#wheelbarrow { 
+#wheelbarrow {
   position: relative;
   background: url(../images/wheelbarrow.png) no-repeat;
-  z-index: 11;
+  z-index: 0;
   top: 220px;
 }
 #wheelbarrow-foreground {
