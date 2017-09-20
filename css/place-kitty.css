@@ -31,7 +31,7 @@ div img:first-child {
   position: absolute;
   z-index: 4;
   top: 260px;
-  left: 455px;
+  left: 0px;
 }
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
